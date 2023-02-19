@@ -1,9 +1,0 @@
-{
-  "/_app": "pages/_app.js",
-  "/_error": "pages/_error.js",
-  "/_document": "pages/_document.js",
-  "/api/profile/[id]": "pages/api/profile/[id].js",
-  "/api/leaderboard": "pages/api/leaderboard.js",
-  "/leaderboard": "pages/leaderboard.js",
-  "/profile/[username]": "pages/profile/[username].js"
-}
