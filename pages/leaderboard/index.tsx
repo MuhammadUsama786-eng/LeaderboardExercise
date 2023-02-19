@@ -1,5 +1,4 @@
-import { FC } from "react"
-import { useEffect, useState } from "react";
+import {FC, useEffect, useState } from "react";
 import axios from "axios";
 import { HeartIcon } from "@heroicons/react/outline";
 import { HeartIcon as SolidHeartIcon } from "@heroicons/react/solid";
